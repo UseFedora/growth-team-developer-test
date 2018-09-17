@@ -4,7 +4,7 @@ Thank you for applying to Teachable! Your goal with this test is to build an int
 
 ### Instructions
 
-1. You will need to install Sketch on your computer to view the included design files. You can download a trial version of Sketch at https://www.sketchapp.com
+1. You will need to install Sketch on your computer to view the included design files. You can download a trial version of Sketch at https://www.sketchapp.com. Sketch is a Mac only program. If you do not have access to a Mac, please let us know.
 2. Build the root.html.erb and favorites.html.erb pages to match the designs in the sketch file (located in the designs folder of this repo).
 3. Images used in the sketch files have been included in app/assets/images
 4. Now for the functionality - clicking the magnifying glass on the search bar should search the RubyGems database for the entered text. If there is an exact match then the gem name, its info, and its dependencies should be displayed as shown in the sketch file.
